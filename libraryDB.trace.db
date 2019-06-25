@@ -1,0 +1,16 @@
+2019-06-25 14:12:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "AUTHORS" nie istnieje
+Table "AUTHORS" not found; SQL statement:
+DROP TABLE `AUTHORS`  [42102-193]
+2019-06-25 14:12:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "BOOKS" nie istnieje
+Table "BOOKS" not found; SQL statement:
+DROP TABLE `BOOKS`  [42102-193]
+2019-06-25 14:12:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "CATEGORIES" nie istnieje
+Table "CATEGORIES" not found; SQL statement:
+DROP TABLE `CATEGORIES`  [42102-193]
+2019-06-25 16:57:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "EVENTS" nie istnieje
+Table "EVENTS" not found; SQL statement:
+DROP TABLE `EVENTS`  [42102-193]
